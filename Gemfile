@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'activerecord-tableless'
 gem 'figaro'
+gem 'zurb-foundation'
 
 group :development do
   gem 'better_errors' 
