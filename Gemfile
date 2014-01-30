@@ -12,6 +12,7 @@ gem 'activerecord-tableless'
 gem 'figaro'
 gem 'zurb-foundation'
 gem 'simple_form'
+gem 'high_voltage'
 
 group :development do
   gem 'better_errors' 
