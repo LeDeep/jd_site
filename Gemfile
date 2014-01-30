@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'activerecord-tableless'
 gem 'figaro'
 gem 'zurb-foundation'
+gem 'simple_form'
 
 group :development do
   gem 'better_errors' 
