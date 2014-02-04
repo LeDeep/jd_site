@@ -13,6 +13,7 @@ gem 'figaro'
 gem 'zurb-foundation'
 gem 'simple_form'
 gem 'high_voltage'
+gem 'google_drive'
 
 group :development do
   gem 'better_errors' 
